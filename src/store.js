@@ -1,4 +1,5 @@
-import item from './item.js';
+import $ from 'jquery';
+import item from './item';
 
 const items = [];
 let hideCheckeditems = false;
